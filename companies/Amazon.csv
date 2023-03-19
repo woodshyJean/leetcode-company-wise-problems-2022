@@ -1,11 +1,11 @@
-problem_link,problem_name,num_occur
+problem_link,problem_name,num_occur,status
 https://leetcode.com/problems/minimum-average-difference/,Minimum Average Difference,1
 https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/,Minimum Rounds to Complete All Tasks,1
 https://leetcode.com/problems/partition-array-according-to-given-pivot/,Partition Array According to Given Pivot,1
 https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/,Minimum Sum of Four Digit Number After Splitting Digits,1
 https://leetcode.com/problems/rearrange-array-elements-by-sign/,Rearrange Array Elements by Sign,1
 https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/,Minimum Swaps to Group All 1's Together II,2
-https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/,Maximum Twin Sum of a Linked List,23
+https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/,Maximum Twin Sum of a Linked List,23, solved
 https://leetcode.com/problems/number-of-laser-beams-in-a-bank/,Number of Laser Beams in a Bank,6
 https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/,Check if a Parentheses String Can Be Valid,2
 https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/,Number of Smooth Descent Periods of a Stock,4
